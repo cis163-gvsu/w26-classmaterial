@@ -1,4 +1,4 @@
-# Welcome to CIS 163 - Computer Science I, Fall 2025
+# Welcome to CIS 163 - Computer Science II, Fall 2025
 
 ## About the Course
 
