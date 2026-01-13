@@ -25,6 +25,7 @@ Python Wave Study Group:
 ## Catalog Course Description
 
 Programming methodology, design and analysis of algorithms, and an introduction to data structures. Examples from a wide range of computing applications will be discussed.
+
 Prerequisites: MTH 122 or MTH 124 or placement into MTH 201 or above through Grand Valley math placement, and a C or better in either CIS 159 or CIS 162.
 
 
