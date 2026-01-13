@@ -51,7 +51,6 @@ You can also contact the [GVSU tutoring center](http://www.gvsu.edu/tc/) for one
 
 ## Faculty Support Team
 
-|||
 |----------|---------------------------------------------------------------|
 | <img src="./images/woodring.png" width="500px" />         | Professor Ira Woodring believes that computing knowledge should be accessible for all people.  He thrives on seeing students learn, and enjoys the challenge of teaching diverse groups of learners.  His research focuses on creating accessible computing solutions for persons with disabilities.  He is an avid gamer, and loves playing (and creating) video games with his four children. <br /> Office: MAK D-2-238 |
 | <img src="./images/carrier.png" width="500px" />          | Professor Erin Carrier leads 3C, the peer mentorship program in the College of Computing.  She is passionate about undergraduate research and is Chair of the University Undergraduate Research Council.  Her research is in the areas of numerical methods, scientific computing, high-performance computing, machine learning, data science, and CS pedagogy.  She loves snow skiing, scuba diving, wakesurfing, stand up paddleboarding, reading, playing video and board games, and spoiling her dogs Chewie and Coral.  She’s also a GVSU alum (2013 BS in CS).<br />Office: MAK C-2-211  |
