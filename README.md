@@ -40,20 +40,19 @@ schedule are tentative and subject to change.
 
 | Week | Date          | Lecture                                                                    | Projects       | Text (Section Name, Chapter)                                           |
 |------|---------------|----------------------------------------------------------------------------|----------------|------------------------------------------------------------------------|
-| 01   | 01/12 - 01/16 | Review of Basics <br> Computational Thinking <br> Problem Breakdown & Approach <br> Variables, Loops, Lists, Functions, Tuples  |                | Chapter 7 & [Pep8 Documentation](https://peps.python.org/pep-008) |
-
+| 01   | 01/12 - 01/16 | Review of Basics <br> Computational Thinking <br> Problem Breakdown & Approach <br> Variables, Loops, Lists, Functions, Tuples  |           | Chapter 7 & [Pep8 Documentation](https://peps.python.org/pep-008) |
 | 02   | 01/19 - 01/23 | **MLK Day** (Monday no class) <br> Review of Classes <br> Private Variables <br> Properties |                | Chapter 1 – OO Design <br> Chapter 2 – Objects in Python (skip sections on Modules and Packages) |
-| 03   | 01/26 - 01/30 | Exception Handling                                     |                |  Chapter 4 – Expecting the Unexpected                             |
-| 04   | 02/02 - 02/06| UML <br> Inheritance                                    |                | Chapter 3 – When Objects Are Alike   |
-| 05   | 02/09 - 02/13 | Inheritance / Polymorphism                             | Project 1 Due Tuesday | Chapter 5 – When to Use OO    |
-| 06   | 02/16 - 02/20 | Abstract Classes / Interfaces <br> **Midterm 1 (in lab)**              |                | Chapter 6 – Abstract Base Classes and Operator Overloading     |
-| 07   | 02/23 - 02/27 | Debugging <br> References <br> **Midterm 1 Retakes**                   |      | [Debugger Documentation](https://docs.python.org/3/library/pdb.html)       |
-| 08   | 03/02 - 03/06 | Unit Testing                                                   |                | Nesting, Ch. 6                                                         |
-| 09   | 03/09 - 03/13 | **Spring Break** (No class)                                                |                | Creating and Using a Class – Working with Classes and Instances, Ch. 9 |
-| 10   | 03/16 - 03/20 | Recursion                                                                    | Project 2 Due Tuesday             |                               |
-| 11   | 03/23 - 03/27 | Recursion <br> **Midterm 2 (in lab)**  |     |       |
-| 12   | 03/30 - 04/03 | Algorithmic Analysis <br> **Midterm 2 Retakes**           |  Project 3 Assigned   |                       |
-| 13   | 04/06 - 04/10 | Searching / Sorting      |                |                                                                        |
-| 14   | 04/13 - 04/17 | Introduction to Linked Lists <br> Complexity of Linked Lists vs Lists (Arrays) <br> **Lab Exam**            |                |     Chapter 10 – The Iterator Pattern     |
-| 15   | 04/20 - 04/24 | Review / Catch Up <br> **Lab Exam Retakes**                                                       |  Project 3 Due Tuesday     | Chapter 2 – Modules and Packages Section           |
+| 03   | 01/26 - 01/30 | Exception Handling                                         |                |  Chapter 4 – Expecting the Unexpected    |
+| 04   | 02/02 - 02/06| UML <br> Inheritance                                        |                | Chapter 3 – When Objects Are Alike       |
+| 05   | 02/09 - 02/13 | Inheritance / Polymorphism                                 | Project 1 Due Tuesday | Chapter 5 – When to Use OO        |
+| 06   | 02/16 - 02/20 | Abstract Classes / Interfaces <br> **Midterm 1 (in lab)**  |                | Chapter 6 – Abstract Base Classes and Operator Overloading               |
+| 07   | 02/23 - 02/27 | Debugging <br> References <br> **Midterm 1 Retakes**       |                | [Debugger Documentation](https://docs.python.org/3/library/pdb.html)     |
+| 08   | 03/02 - 03/06 | Unit Testing                                               |                | Nesting, Ch. 6                                                           |
+| 09   | 03/09 - 03/13 | **Spring Break** (No class)                                |                | Creating and Using a Class – Working with Classes and Instances, Ch. 9   |
+| 10   | 03/16 - 03/20 | Recursion                                                  | Project 2 Due Tuesday  |                                  |
+| 11   | 03/23 - 03/27 | Recursion <br> **Midterm 2 (in lab)**                      |                        |                                  |
+| 12   | 03/30 - 04/03 | Algorithmic Analysis <br> **Midterm 2 Retakes**            |  Project 3 Assigned    |                                  |
+| 13   | 04/06 - 04/10 | Searching / Sorting                                        |                        |                                  |
+| 14   | 04/13 - 04/17 | Introduction to Linked Lists <br> Complexity of Linked Lists vs Lists (Arrays) <br> **Lab Exam** |          |     Chapter 10 – The Iterator Pattern     |
+| 15   | 04/20 - 04/24 | Review / Catch Up <br> **Lab Exam Retakes**                |  Project 3 Due Tuesday | Chapter 2 – Modules and Packages Section  |
 | Finals | 04/25/2025  | **Final Exam**: Saturday, April 25th <br> Location: TBD <br> Time: 1:00pm  |                |                                                                        |
