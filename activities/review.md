@@ -17,7 +17,7 @@ while x > 0:
 
 ```
 What is the output of the code?
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 
 
@@ -26,7 +26,7 @@ Can you come up with a nontrivial value for `modnum`
 infinitely (without changing any of the other code)?
 If so, what is it and explain why that causes an infinite loop.
 If not, explain why.
-<br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 
 ### Question 1:  Loops / Lists
