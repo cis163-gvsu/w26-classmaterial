@@ -47,7 +47,7 @@ schedule are tentative and subject to change.
 | 05   | 02/09 - 02/13 | Inheritance / Polymorphism                                 | Project 1 Due Tuesday | Chapter 5 – When to Use OO        |
 | 06   | 02/16 - 02/20 | Abstract Classes / Interfaces <br> **Midterm 1 (in lab)**  |                | Chapter 6 – Abstract Base Classes and Operator Overloading               |
 | 07   | 02/23 - 02/27 | Debugging <br> References <br> **Midterm 1 Retakes**       |                | [Debugger Documentation](https://docs.python.org/3/library/pdb.html)     |
-| 08   | 03/02 - 03/06 | [Fri: Unit Testing](lec-notes/lec-unit-testing.pdf)        |                | Nesting, Ch. 6                                                           |
+| 08   | 03/02 - 03/06 | [Fri: Unit Testing](lec-notes/lec-unit-testing.pdf) <br> [Demo Unit Test Code](demos/testing/test.py) |                | Nesting, Ch. 6                                                           |
 | 09   | 03/09 - 03/13 | **Spring Break** (No class)                                |                | Creating and Using a Class – Working with Classes and Instances, Ch. 9   |
 | 10   | 03/16 - 03/20 | Recursion                                                  | Project 2 Due Tuesday  |                                  |
 | 11   | 03/23 - 03/27 | Recursion <br> **Midterm 2 (in lab)**                      |                        |                                  |
